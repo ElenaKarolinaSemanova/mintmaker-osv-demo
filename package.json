@@ -1,0 +1,9 @@
+{
+  "name": "mintmaker-osv-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tiny repo used to show MintMaker OSV vulnerability alerts.",
+  "dependencies": {
+    "lodash": "4.17.20"
+  }
+}
